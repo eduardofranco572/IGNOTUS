@@ -25,7 +25,7 @@ Infelizmente o projeto não será finalizado por isso não está hospedado para 
    <img widht= 700px height= 500px src="img1.jpg">
   <br>
   <br>
-  <img widht= 700px height= 500px src="img2.jpg">
+  <img widht= 700px height= 500px src="img3.jpg">
   <br>
   <br>
 </div>
