@@ -16,7 +16,7 @@ Olá, Meu nome é Eduardo este repositório é um projeto iniciado em agosto de 
 
 # O que é o projeto?
  O projeto se trata de um web site de enigmas aonde o usuário tera que desvendar os enigmas de cada pagina do site para avançar na sua jornada. O projeto atual tem 12 fases sendo um enigma com dificuldade elevada, aonde o usuário passara meses para desvendar uma única fase!.
- Então você topa o desafio de tentar ? mais duvido que consignam terminar..  
+ Então você topa o desafio de tentar ? mais duvido que consigam terminar..  
 <br>
 Infelizmente o projeto não será finalizado por isso não está hospedado para todos acessar, o coloquei aqui para demonstrá-lo.
 <br>
