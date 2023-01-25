@@ -14,7 +14,7 @@
         // $respostacerta = $_POST['respostacerta'];//essa puxa a resposta certa que tu deve coloca em um input tipo hidden na pagina anterior
         $pagina = $_POST['pagina'];//aqui tu vai puxa o nome da pagina  que tu deve coloca em um input tipo hidden na pagina anterior, dica coloca como numero
         $arraypaginas = array("F1.php","F2.php","F3.php","F4.php","F5.php","F6.php","F7.php","F8.php","F9.php","F10.php","F11.php","F12.php");//aqui to coloca o nome das paginas
-        $respostacerta = array("answer","bb","clever idea well done","dubium","mountain landscape with rainbow sky","clever idea well done","tarot reader","draco constellation","the dog","fro","domi","dodecagon");
+        $respostacerta = array("","","","","","","","","","","","");
         $a = array(
             "F1" => 0,
             "F2" => 1,
